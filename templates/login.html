@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Hustler Portal</title>
+    <link href="../static/assets/img/favicon.png" rel="icon">
+    <link href="../static/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="../static/assets/css/login.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- {# <header id="header" class="fixed-top">#}
+        {# <div class="container d-flex align-items-center justify-content-between">#}
+            {##}
+            {# <h1 class="logo"><a href="/">Hustle 24/7</a></h1>#}
+            {##}
+            {# </div>#}
+        {# </header>#} -->
+
+
+
+    <div class="overlay">
+        <!-- LOGN IN FORM by Omar Dsoky -->
+        <form>
+            <!--   con = Container  for items in the form-->
+            <div class="con">
+                <!--     Start  header Content  -->
+                <header class="head-form">
+                    <h2>Log In</h2>
+                    <!--     A welcome message or an explanation of the login form -->
+                    <p>login here using your username and password</p>
+                </header>
+                <!--     End  header Content  -->
+                <br>
+                <div class="field-set">
+
+                    <!--   user name -->
+                    <span class="input-item">
+                        <i class="fa fa-user-circle"></i>
+                    </span>
+                    <!--   user name Input-->
+                    <input class="form-input" id="txt-input" type="text" placeholder="@UserName" required>
+
+                    <br>
+
+                    <!--   Password -->
+
+                    <span class="input-item">
+                        <i class="fa fa-key"></i>
+                    </span>
+                    <!--   Password Input-->
+                    <input class="form-input" type="password" placeholder="Password" id="pwd" name="password" required>
+
+                    <!--      Show/hide password  -->
+                    <span>
+                        <i class="fa fa-eye" aria-hidden="true" type="button" id="eye"></i>
+                    </span>
+
+
+                    <br>
+                    <!--        buttons -->
+                    <!--      button LogIn -->
+                    <button class="log-in"> Log In </button>
+                </div>
+
+                <!--   other buttons -->
+                <div class="other">
+                    <!--      Forgot Password button-->
+                    <button class="btn submits frgt-pass">Forgot Password</button>
+                    <!--     Sign Up button -->
+                    <button class="btn submits sign-up">Sign Up
+                        <!--         Sign Up font icon -->
+                        <i class="fa fa-user-plus" aria-hidden="true"></i>
+                    </button>
+                    <!--      End Other the Division -->
+                </div>
+
+                <!--   End Conrainer  -->
+            </div>
+
+            <!-- End Form -->
+        </form>
+    </div>
+
+
+    <!-- {# <footer>#}
+        {# <div class="container">#}
+            {# <div class="row">#}
+                {# <div class="col-sm-12">#}
+                    {# <div class="copyright-box">#}
+                        {# <p class="copyright">&copy; Copyright <strong>Hustle 24/7</strong>. All Rights Reserved</p>#}
+                        {##}
+                        {# </div>#}
+                    {# </div>#}
+                {# </div>#}
+            {# </div>#}
+        {# </footer>#} -->
+</body>
+
+<script src="../static/assets/js/login.js"></script>
+
+
+</html>

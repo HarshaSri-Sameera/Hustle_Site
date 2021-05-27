@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-passkey-311612",
+  "private_key_id": "46b5f46d486abb862838940eec979093be9f137c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6bPdxgm4jCpyJ\nNjvxn3hUzMNy3jWCKHtKvkFnoyDk8WdH5pC6JdHRSH8yOZlFhaTThOc2R2tJJZ/P\n2UnVmIpLV7zQWoh5XJsFdhATeznbJWeupOKD8eGTsfnGqwwkTLMXs8gW/59eWOQ9\n4rw7Tte5+7S3TXchhFEnkviAtDZdu84oaQsIAK+FS2q8BipsgXprX5Bkayde5F9c\n828ZWy/QSCfkt/JTs1JlrmI1IkHorHgrumJp3fbrxQRbBV6l8BxAXR6cWnAcdZfb\nqJCJGSvSRmLNelq+5cG7wfwoc7AuajwfZaNBHjXecdt1RX6p8Y0wkvbX48ZeJ602\nVH6kLRU/AgMBAAECggEAPxk+r1a8PHQNA4wtwdx9+AXOaYS4i7Nz95ppvNBEA/mJ\nQZbSiY7fc3ycQL2qGRPg9A7Zy09lCr8HVmxvRzJ4LIQnzkW2R42GktShIFbnADuq\n2jvIx2wJM9pbdljSpT6op28cXFxs7pwbtK6Xk2NeNP7y7c/0cI2+giyGm9ljRVoE\n8E4xxhhcqY/eN44Qw+KjXoljE5b0bqWmX6YONklDpVJOvH1KNqTw4qZpsX4i8inJ\nS8n3zO7Od6decVhegIyIXNsII1pNeq2WaHSEwhsq0hWJJlVICzkIQG7vvkS/0V3e\n9+LvgjlBf7jUTc2/BRbjeZd5kCxirLt89MqdCzNUYQKBgQDzVyjyjyXXE76Lmv5M\nOgf7CCTVWGLiSfH79BbVt5YcWZEFH+qPR7jroVNskk4fpjVuICeTXod4fZbukp7j\n+F9hT/rIsDJgiObBEbYMFYOp7mXIRBYhnX6o4vrhVD0r8A6zPoB4y9YglvSaCZDm\nZeUvnkL5D0ymAMvhk4/TrVa9mQKBgQDEH87DXcFavbbKaIMBa6exXoMSyusSNtR2\nafzefBy35D0ryNdfigOvjG+u2GdGbOF/ptpj3X2OHuVgWg9ezsShcNFwmb/cL17o\noW2ZN8etLVew/yw+2VQ44/Vtika9+EMEmYEdAts7j4YSjrJke9aIRGxwFq00tbyg\nifXVe6VAlwKBgHPyVN12ncYkb0df28mAYSsYz0wkqEFAkJ/Hx1Wf+1OYzcPOWFpb\nB16m6PQzpivoa08E3TaX9R7RYKhejnz7bJ8Wl90mL2rV8HWQNdj+K1U99Zt97bmo\nrKBWPso89ETKRobbwiVMosO2iegXpMZTSOfuleTMiG4UtRDP2dk3n7wJAoGBALyp\nKFmw36XtZ1/wB02fhLHPi+DRCC3+RoUeUZyn4WxYBywOSHfkKMV/H5QfIcGSTZ1h\nISX906CaQeZc2/pEhswR3bcmf3RMsUywtOA100PYoUlnPeW7ZBRR3S6hXImzvqw3\nCgehTslNuBgz4pFcuzNcNr/gYH+a7zezXqMdDQtDAoGAT6lQUx767WrODkmSYXhc\nzZttuXR6E4fAtxW9HtlptpuBq5b5BG5wEU1sebxTBK8TAiZKNkWmUeoUACMmp7Bg\nPAulamV8m9MszLci3hKLYCDuEBHePPzTZHGx/xrl2EvCvo62WJhOGiWArrFMmAoL\n0n2AdShgj1T7OS7+7Cwia5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspreaddatabaseaccount@lexical-passkey-311612.iam.gserviceaccount.com",
+  "client_id": "116134938896686461052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspreaddatabaseaccount%40lexical-passkey-311612.iam.gserviceaccount.com"
+}
